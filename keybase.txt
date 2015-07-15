@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/solocshaw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://solocshaw.github.io
+  * I am solocshaw (https://keybase.io/solocshaw) on keybase.
+  * I have a public key with fingerprint 9615 27AE FD47 BC85 107F  E02F 4ABB A0D7 8177 D8FA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "961527aefd47bc85107fe02f4abba0d78177d8fa",
+            "host": "keybase.io",
+            "key_id": "4abba0d78177d8fa",
+            "kid": "0101e4abec13d4ff35461bb28037698a8716175f69653627b4cf5ddccd8e38662ae10a",
+            "uid": "e39e203e09f56d6ef4a5446deba00600",
+            "username": "solocshaw"
+        },
+        "revoke": {
+            "sig_ids": [
+                "50f811835e40a74efa80e492274ce0ec3d3bfa55cde1ce95193827d1520600350f"
+            ]
+        },
+        "service": {
+            "hostname": "solocshaw.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1436924028,
+    "expire_in": 157680000,
+    "prev": "eb51cb95c2fdf7e20625c738b7ca41e6e53651a66d3fa498be0194298da84b56",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMJjAnicbVJbbFRVFJ3q1GLR0CgafDTGk7FVaes59zzv+ObDRAwJMaGiQobznLmW
+zh3n3k5bysOEmhhiU4OJGltQiPQDMAWixh+NEjQgatBE/cAQUoMoiSaIRNDwOLfq
+j/H8nJy9115r73X2gWuvzLU2zR2bzLc8/mh70+GPpwZyy3a8v3YEqNgMg+II6LOz
+l4uqZVuv1aNqCoogZIgGXFpnCFdaUAS5szBwRColoeECcW6Ek6ALVOIkq/A0Sia2
+J4p9zD9KkfHR/8H3zSYggsj6rNUIG+IcpoQhpQIBMWehkIIjhjh1LGQUs4Aroh01
+RmsjLBaMBdIimNENzNJZHNoAYgtDR5lh1jdKCWHGenXIIMyAia1XZb/16CReHeuk
+IgfBui5Qt424z2YWJFHZd52A4tOAQicQEphaAiUn1kkBLQmDgBNtodXYYOUkpdpY
+pG1IUYhFwI03LVPDvhys9NxeshHpWfLMpv/K95SjtDKg/vasVo/TWMerPaCSprWk
+mDWXDteyikGrSv9wlVRUNf6vfEXD1pMoroIi8kidRhk5IpiFAYGB6AJ2qBbVbSnK
+EJQzAf3JdGwjc0xRpFVIdeCM4948FlDNsVBcS4Iss952iiRjBjtJQqEsRCEJQmGk
+IIoykE33bDXOuH2fspwNFpWrMh2oW7Bu/0cr8rmm1txVzVdk65Zrvbrt3yX84nDL
+pTU73nj9fE7urf04M7H8h/H74Tvg9IV51/fDn3seqy1mN977yA1TR/P5cxs/3bDn
+eNu53Q+/2Xv2/F/XbVl6+773jn1WwN8v6JjM/3FiyfPJh+OFNS+8vGfh7vEz+xd9
+0PxW78XmmVu+00Nu/eKOk3f3joxiuMueSvOFTcG3q9byvccPPPnb0Lbpgrzj7PDW
+hU9Mwc9b2sjp0d5S551fHmtM/N5fvunBi4OvmZ/md595afuLBbV82SvdX3f1zZt5
+yH0zZ9WtE1/t/HXjiZ3PHHnqufXp5jE2Pdn99p/33TYcf/Lq5uieC9fMdBycHrwZ
+b0iPLjm16ciiyr5dnb/cdTJpH1vQ/EDn3NGl7e+GW+Shy4T0Qn4=
+=Pchs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/solocshaw
+
+==================================================================
